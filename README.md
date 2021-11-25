@@ -64,7 +64,9 @@ To evaluate the trained target model on the H3.6M test set, run the following co
 ```bash
 cd evaluation
 python eval.py 
+
 ```
+<!---
 ## Pre-trained Models
 
 The pretrained models can be found inside the `pretrained_weights` directory.
@@ -72,4 +74,6 @@ The pretrained models can be found inside the `pretrained_weights` directory.
 ## Results
 
 The detailed quantitative results can be found in the main paper and supplementary material.
+'''
+-->
 
